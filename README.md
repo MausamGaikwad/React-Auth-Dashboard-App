@@ -40,8 +40,8 @@ A modern, beginner-friendly **React** dashboard that showcases global state mana
 Clone the repo and run it locally:
 
 ```bash
-git clone https://github.com/your-username/auth-dashboard-app.git
 cd auth-dashboard-app
+git clone https://github.com/https://github.com/MausamGaikwad/React-Auth-Dashboard-App
 npm install
 npm run dev
 ```
